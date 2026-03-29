@@ -1,11 +1,10 @@
-# forth_interp
+# forth-interp
 
-forth_interp - Stack-based Forth interpreter with definitions and control flow.
+Single-file Python CLI. Zero dependencies.
 
 ## Usage
 
 ```bash
-python3 forth_interp.py --test
+python3 forth_interp.py
+python3 forth_interp.py test
 ```
-
-Zero dependencies. Python 3.8+.
