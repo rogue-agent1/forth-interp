@@ -1,10 +1,3 @@
-# forth-interp
-
-Single-file Python CLI. Zero dependencies.
-
-## Usage
-
-```bash
-python3 forth_interp.py
-python3 forth_interp.py test
-```
+# forth_interp
+Minimal Forth interpreter — stack ops, arithmetic, word definitions.
+Single-file Python, zero dependencies.
